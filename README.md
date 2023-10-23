@@ -36,6 +36,7 @@ The DJI plug&play port has no voltage regulator (BEC) and is passing through VBA
 
 Small motor 4S builds should usually need an additional capacitor of at least 16V/220uF, for 6S go up to 35V or even 50V. Bigger motors have a bigger current draw, higher voltage spikes and more serious back EMF (motor braking, works like a generator). Make sure to add big enough or even bigger low ESR capacitors on the AIO battery pad or on your battery lead the more aggressive motors you fly. There’s a choice of capacitors in the package, but it’s never a bad idea to make sure to protect your board. Smaller boards have less capacitance which has to be covered with external capacitors, there’s no way around.
 
+![Imgur](https://imgur.com/KNHapkQ.png)
  
 
 
@@ -70,6 +71,8 @@ Weight: 8.5g
 
 
 ESC - 55A 2-6S
+
+![Imgur](https://imgur.com/ZAVI7RG.png)
 
 
 Specification:
